@@ -1,6 +1,6 @@
 # Factors Influencing Customer Participation in a Program to Replace Lead Pipes for Drinking Water
 
-This repo contains data and code for "[Factors Influencing Customer Participation in a Program to Replace Lead Pipes for Drinking Water](http://dx.doi.org/)". 
+This repo contains data and code for "[Factors Influencing Customer Participation in a Program to Replace Lead Pipes for Drinking Water](https://www.epa.gov/environmental-economics/customer-participation-lead-service-line-replacement)". 
 
 > **Abstract:** 
 > Many public water systems are struggling to locate and replace lead pipes that distribute drinking water across the United States. This study investigates factors associated with customer participation in a voluntary lead service line (LSL) inspection and replacement program. It also uses quasi-experimental and experimental methods to evaluate the causal impacts of two grant programs that subsidized homeowner LSL replacement costs on LSL program participation. LSLs were more prevalent in areas with a higher concentration of older housing stock, Black and Hispanic residents, renters, and lower property values. Owner-occupied and higher valued properties were more likely to participate in the LSL program. Results from the two grant program evaluations suggest that subsidies for low-income homeowners to cover LSL replacement costs can significantly boost participation, but only when the programs are well publicized and easy to access. Even then, there was still significant non-participation among properties with confirmed LSLs. 

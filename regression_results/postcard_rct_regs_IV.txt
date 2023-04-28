@@ -1,0 +1,17 @@
+	(1)	(2)	(3)
+	Registered	Inspection	LSLR
+VARIABLES	IV	IV	IV
+			
+postcard_turp	-0.013	-0.012	-0.006
+	(0.013)	(0.013)	(0.024)
+postcard_after	0.017	0.028	0.008
+	(0.019)	(0.020)	(0.047)
+after	0.001	0.042***	0.144***
+	(0.012)	(0.012)	(0.029)
+Constant	0.116***	0.114***	0.065***
+	(0.008)	(0.008)	(0.015)
+			
+Observations	6,200	6,200	1,056
+R-squared	0.000	0.006	0.046
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

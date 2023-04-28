@@ -1,0 +1,17 @@
+	(1)	(2)	(3)
+	Registered	Inspection	LSLR
+VARIABLES	SynthContr	SynthContr	SynthContr
+			
+east_trenton	0.000	-0.000	0.000
+	(0.011)	(0.019)	(0.053)
+after	-0.019	0.000	0.176***
+	(0.013)	(0.025)	(0.047)
+ET_after	0.096**	0.094*	0.169**
+	(0.041)	(0.048)	(0.077)
+Constant	0.084***	0.124***	0.095***
+	(0.006)	(0.015)	(0.030)
+			
+Observations	37,758	37,758	5,484
+R-squared	0.015	0.013	0.118
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

@@ -1,3 +1,9 @@
+# censored data
+*lsl_program_data.dta
+*quasi_experimental_data_pre_weights.dta
+*quasi_experimental_data.dta
+*postcard_rct_data.dta
+
 # History files
 .Rhistory
 .Rapp.history

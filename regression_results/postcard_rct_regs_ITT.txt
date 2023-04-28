@@ -1,0 +1,17 @@
+	(1)	(2)	(3)
+	Registered	Inspection	LSLR
+VARIABLES	ITT	ITT	ITT
+			
+turp_treatment	-0.011	-0.010	-0.005
+	(0.011)	(0.011)	(0.021)
+after	0.001	0.042***	0.144***
+	(0.011)	(0.012)	(0.029)
+turp_after	0.015	0.024	0.007
+	(0.016)	(0.017)	(0.041)
+Constant	0.115***	0.114***	0.065***
+	(0.008)	(0.008)	(0.015)
+			
+Observations	6,200	6,200	1,056
+R-squared	0.000	0.007	0.046
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

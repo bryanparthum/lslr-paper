@@ -1,0 +1,17 @@
+	(1)	(2)	(3)
+	Registered	Inspection	LSLR
+VARIABLES	CEM	CEM	CEM
+			
+o.east_trenton	-	-	-
+			
+after	-0.007	-0.049**	0.203***
+	(0.011)	(0.023)	(0.055)
+ET_after	0.084**	0.144***	0.148*
+	(0.040)	(0.046)	(0.086)
+Constant	0.084***	0.183***	0.129***
+	(0.005)	(0.011)	(0.026)
+			
+Observations	32,610	32,610	4,060
+R-squared	0.014	0.022	0.102
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

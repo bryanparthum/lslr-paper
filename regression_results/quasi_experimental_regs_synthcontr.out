@@ -1,0 +1,17 @@
+	(1)
+	Registered
+VARIABLES	SynthContr
+	
+east_trenton	0.000
+	(0.011)
+after	-0.019
+	(0.013)
+ET_after	0.096**
+	(0.041)
+Constant	0.084***
+	(0.006)
+	
+Observations	37,758
+R-squared	0.015
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
